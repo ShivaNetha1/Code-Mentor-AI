@@ -7,7 +7,7 @@ This application helps developers and learners understand programming code with 
 
 ## 🚀 Live Demo
 
-🔗 [Add your Streamlit deployment link here](https://streamlit.io/)
+🔗 [Add your Streamlit deployment link here](https://code-mentor-agent.streamlit.app/)
 
 ---
 
