@@ -187,5 +187,5 @@ if st.session_state.history:
 st.markdown("---")
 
 st.caption(
-    "🚀 Built by ShivaNetha"
+    "🚀 Built by [ShivaNetha](https://www.linkedin.com/in/shiva-pandala)"
 )
