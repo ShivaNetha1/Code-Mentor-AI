@@ -37,10 +37,10 @@ mode = st.sidebar.selectbox(
 model = st.sidebar.selectbox(
     "AI Model",
     [
-        "llama-3.1-8b-instant",
-        "llama3-70b-8192",
-        "openai/gpt-oss-20b",
-        "qwen/qwen3-32b"
+        "llama-3.3-70b-versatile",
+        "qwen/qwen3-32b", 
+        "llama-3.1-8b-instant", 
+        "openai/gpt-oss-120b"
     ]
 )
 
